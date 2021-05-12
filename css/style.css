@@ -1,48 +1,48 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
 h1 {
-  font-size: 50px;
-  font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
-  color: yellow;
+    color: yellow;
 }
 
 h1:hover {
-  color: beige;
+    color: beige;
 }
 
 h2 {
-  color: yellow;
+    color: yellow;
 }
 
 h2:hover {
-  color: beige;
+    color: beige;
 }
 
 h3 {
-  color: yellow;
+    color: yellow;
 }
 
 h3:hover {
-  color: beige;
+    color: brown
 }
 
 header {
-  padding: 1em;
+    padding: 1em;
 }
 
 header .burguer {
-  margin: 2em;
+    margin: 2em;
 }
 
 body {
-  background-color: #17181a;
-  font-family: 'Montserrat', sans-serif;
-  overflow-x: hidden;
+    background-color: #17181a;
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
 }
