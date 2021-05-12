@@ -44,5 +44,5 @@ header .burguer {
 body {
   background-color: red;
   font-family: 'Montserrat', sans-serif;
-  overflow-x: hidden;
+  overflow-x: visible;
 }
